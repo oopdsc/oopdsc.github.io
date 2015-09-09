@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 关于我
-permalink: /
+permalink: /about/
 ---
 宋超，男，1988年出生在南昌，现在广州工作。
 
