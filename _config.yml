@@ -1,0 +1,12 @@
+title: 宋超
+email: oopdsc@163.com
+description: "宋超的个人博客"
+baseurl: ""
+url: "oopdsc.github.io"
+username: 'oopdsc'
+repository: "https://github.com/oopdsc"
+paginate: 10
+markdown: kramdown
+permalink: :title
+pygments: true
+safe: true
