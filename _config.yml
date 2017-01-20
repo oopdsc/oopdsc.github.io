@@ -8,5 +8,5 @@ repository: "https://github.com/oopdsc"
 paginate: 10
 markdown: kramdown
 permalink: :title
-pygments: true
+rouge: true
 safe: true
