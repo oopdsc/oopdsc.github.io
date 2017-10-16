@@ -1,3 +1,9 @@
+---
+layout: post
+title: 断舍离
+category: tech
+---
+
 Log4j:
 
 <!-- Log4j Only allow DEBUG level into debug.log file -->
