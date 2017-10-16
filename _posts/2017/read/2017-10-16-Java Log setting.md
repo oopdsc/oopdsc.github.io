@@ -6,6 +6,7 @@ category: tech
 
 Log4j:
 
+{% highlight xml %}
 <!-- Log4j Only allow DEBUG level into debug.log file -->
 <appender name="debugAppender" class="org.apache.log4j.FileAppender">
   <param name="File" value="~/log/debug.log" />
@@ -18,10 +19,10 @@ Log4j:
   </filter>
   <filter class="org.apache.log4j.varia.DenyAllFilter" />
 </appender>
-
+{% endhighlight %}
 
 logback:
-
+{% highlight xml %}
 <appender name="debugAppender"
   class="ch.qos.logback.core.rolling.RollingFileAppender">
   <file>~/log/debug.log</file>
@@ -47,3 +48,4 @@ logback:
     </Pattern>
   </encoder>
 </appender>
+{% endhighlight %}
