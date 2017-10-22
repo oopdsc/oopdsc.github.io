@@ -3,11 +3,7 @@ layout: post
 title: Linux Basic Shell
 category: tech
 ---
-### H3 特殊形式的变量
-
-| A simple | table |
-| with multiple | lines|
-
+### H3 特殊形式的变量  
 
 | 变量写法 | 含义 |  
 |---|-----|  
